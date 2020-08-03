@@ -3,6 +3,8 @@
 
 網頁版：https://kid421.github.io/Unity_Practice_ParticleSystemWithAnimation/Web
 
+![粒子特效展示畫面](/demo.png "粒子特效展示畫面")
+
 教學：
 
 ![粒子系統設定教學](/tutorial.png "粒子系統設定教學")
